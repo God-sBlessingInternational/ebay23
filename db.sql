@@ -4,3 +4,4 @@ H2DB
 MongoDB
 TSdb-dev
 Jenkins
+cassandra
